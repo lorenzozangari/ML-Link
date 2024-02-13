@@ -1,0 +1,13 @@
+dgl==1.1.1
+dglgo==0.0.2
+networkx==3.0
+numpy==1.24.1
+pandas==1.5.3
+scikit-learn==1.3.0
+scipy==1.11.1
+torch==1.13.1
+torch-scatter==2.1.1
+torch-sparse==0.6.17
+torchaudio==0.13.1
+torchvision==0.14.1
+tqdm==4.64.1
