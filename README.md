@@ -237,11 +237,6 @@ Modify the file *params.py* to change the default values of the parameters.
 
 The required libraries are listed in the file *requirements.txt*.
 
-CUDA version: 11.7
-
-GPU: GeForce RTX 3090
-
-CPU: Intel(R) Xeon(R) GOLD 628R CPU @ 2.70GHz
 
 ## Hyper-parameters selection
 
